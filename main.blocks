@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="FR+}06iLy}988tNbYX}O" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="XR=;b2FgtpwT[1Ju3Ya+"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="|EMJCxX~X~aI1CFxh$)}" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id=":JbiGe+ojZ+3[V3QF{AZ"><field name="LEDS">`
         . . . . . 
+        . # # # . 
         . # . # . 
-        . . . . . 
-        . # . # . 
+        . # # # . 
         . . . . .
-        `</field></block></statement></block><block type="device_gesture_event" id="u,fN#J6W2dS)J~c:AbM?" x="227" y="-8"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="^G/M:xW=[~xH96%j+@EU"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="!De?)eH@J`n.$BHJbnlR" x="216" y="23"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="4#Zf$?1!K~x[/c7by_Bk"><field name="LEDS">`
         # # # # # 
         # # # # # 
         # # # # # 
         # # # # # 
         # # # # #
-        `</field><next><block type="device_show_number" id="P!7LE[]J7Dpr]W`F^j(["><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_random" id="}W`:BcFvcSK?Z[)pIl2/"><value name="min"><shadow type="math_number" id="L-zY[A3A8_Os$!G`p{J)"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="U;*=kql`]QuUh)dS`_11"><field name="NUM">6</field></shadow></value></block></value></block></next></block></statement></block></xml>
+        `</field><next><block type="device_show_number" id="WQm0^tm)Y=[BWpztDy^^"><value name="number"><shadow type="math_number" id="A`q^:o1pf*%aU$xI_W(d"><field name="NUM">0</field></shadow><block type="device_random" id="?Jn-d]@}-r|+xK7beRz["><value name="min"><shadow type="math_number" id="PCLQleA,]r|VIfR2@8uu"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="U?4O3%UHE+5gm$)4({ki"><field name="NUM">6</field></shadow></value></block></value></block></next></block></statement></block></xml>
